@@ -25,3 +25,10 @@ spec:
           httpGet:
             path: /status/200
             port: 80
+        resources:
+          limits:
+            cpu: 1.0
+            memory: 512Mi
+          requests:
+            cpu: 0.5
+            memory: 512Mi
