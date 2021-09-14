@@ -4,4 +4,4 @@ metadata:
   name: setters
 data:
   httpbin-replicas: "1"
-  httpbin-port: "8080"
+  httpbin-port: "8000"
