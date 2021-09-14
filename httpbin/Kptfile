@@ -1,7 +1,7 @@
 apiVersion: kpt.dev/v1
 kind: Kptfile
 metadata:
-  name: kpt-httpbin
+  name: httpbin
 info:
   description: Basic httpbin deployment
 pipeline:
